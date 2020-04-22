@@ -1,5 +1,8 @@
 RecipeDB app CS5200
 
+NOTE FOR TAs: We could not deploy front end on heroku. Our mongo and back end server is deployed on heroku. 
+Please test it on local with given instructions. 
+
 
 URL: 
 
