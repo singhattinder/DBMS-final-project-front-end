@@ -11,7 +11,7 @@ if(process.env.REACT_APP_DEVELOPMENT_ENV === 'DEVELOPMENT') {
     LOCAL_URL = 'http://localhost:2000'
 }
 else if(process.env.REACT_APP_DEVELOPMENT_ENV === 'HEROKU') {
-    LOCAL_URL = 'https://moviedb-server-summer1.herokuapp.com';
+    LOCAL_URL = 'https://dbms-cs5200-final-server.herokuapp.com';
 }
 
 
