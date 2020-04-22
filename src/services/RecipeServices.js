@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 let _singleton = Symbol();
-let LOCAL_URL = 'http://localhost:3000';
+let LOCAL_URL = 'https://dbms-cs5200-final-server.herokuapp.com';
 
 
 //Run server first
