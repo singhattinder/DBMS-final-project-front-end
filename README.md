@@ -1,4 +1,4 @@
-MovieDB app CS5200
+RecipeDB app CS5200
 
 #### `Please reload and wait for heroku if you see blank page with App bar or application error beacuse there is delay between client and server startup due to FREE tier of heroku dynos.`
 
