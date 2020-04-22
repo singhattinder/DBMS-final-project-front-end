@@ -1,4 +1,3 @@
-import axios from 'axios';
 
 let _singleton = Symbol();
 let LOCAL_URL = 'http://localhost:3000';
