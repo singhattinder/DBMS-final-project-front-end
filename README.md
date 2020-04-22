@@ -1,6 +1,5 @@
 RecipeDB app CS5200
 
-#### `Please reload and wait for heroku if you see blank page with App bar or application error beacuse there is delay between client and server startup due to FREE tier of heroku dynos.`
 
 URL: 
 
@@ -10,5 +9,8 @@ Demo Username/password: jon/jon
 
 To run on local machine:
 
-add env variable REACT_APP_DEVELOPMENT_ENV = DEVELOPMENT to your IDE env variables for 
-In the server repo ENVIRONMENT = DEVELOPMENT to IDE env variables
+- Clone the repo.
+- Do npm install .
+- Do npm start .
+Make sure your APP is running on port 3000 or server would give CORS error.
+On latest chrome browser it doesn't work , so try Firefox broswer.
