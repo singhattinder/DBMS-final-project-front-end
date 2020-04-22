@@ -1,0 +1,168 @@
+.ma-searchbar{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.margin-card{
+    margin-right: 20px;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+.margin-card-outline{
+    width: 100%;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.active-green-3 input[type=text]:focus:not([readonly]) {
+    border: 1px solid #23e6f4;
+    box-shadow: 0 0 0 1px #4feff4;
+    background-color: #fdfdff;
+}
+
+.back-color{
+    height: 100%;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+}
+
+.flex-container-movie {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: flex-end;
+
+}
+
+.form-rounded {
+    border-radius: 1px;
+    background-color : #9dd1fb;
+    outline: none;
+    color: #FFFFFF;
+}
+
+
+.search-bar-home{
+    background-color: #FAFAFA;
+}
+
+.like-marin{
+    margin-left: 30px;
+}
+
+.star-margin{
+    margin-left: 10px;
+    margin-top: 18px;
+}
+
+
+.like-margin{
+    margin-left: 120px;
+    margin-top: 12px;
+}
+
+ .margin-container-100{
+     margin-top: 100px;
+     height: 100%;
+     min-height: 100%;
+     display: flex;
+     flex-direction: column;
+ }
+
+.margin-container-20{
+    margin-top: 20px;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.col-centered-detail{
+    margin-top: 50px;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    float: none;
+
+}
+
+.col-text{
+    float: none;
+    margin-left: 300px;
+
+}
+.margin-top-20{
+    margin-top: 20px;
+}
+.margin-top-10{
+    margin-top: 10px;
+}
+.margin-top-5{
+    margin-top: 5px;
+}
+.text-color{
+    color: white;
+}
+
+.img-custom{
+
+    height:150px;
+    background-color:#FFFFFF;
+    margin-top:10px;
+
+}
+
+.margin-auto{
+    margin: 20px;
+}
+
+.margin-left-10{
+    margin-left: 10px;
+}
+
+.margin-right-10{
+    margin-right: 10px;
+    padding-right: 10px;
+}
+.margin-right-top-10{
+    margin-right: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+}
+
+
+.margin-left-8{
+    margin-left: 8px;
+}
+
+.margin-left-11{
+    margin-left: 11px;
+}
+
+.margin-top-left-20{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.margin-badge{
+    margin-left: 400px;
+}
+
+
+
+.margin-text{
+    margin: 30px;
+}
