@@ -8,7 +8,7 @@ URL:
 
 Video Summery: 
 
-Demo Username/password: jon/jon
+Demo Username/password: alice/alice, bob/bob, admin/admin
 
 To run on local machine:
 
